@@ -14,7 +14,7 @@ Ride Sharing data provided by Citi Bike System Data page (https://ride.citibiken
 
 ### Tableau story
 
-[link to Tableau dashboard](https://public.tableau.com/app/profile/harry.mohabir/viz/NYC_CitiBike_Visualizations_16387611210080/Overallfindings)
+[Link to Tableau dashboard](https://public.tableau.com/app/profile/harry.mohabir/viz/NYC_CitiBike_Visualizations_16387611210080/Overallfindings)
 
 ![Weather Vacation](https://github.com/hmohabir/NYC_Citibike/blob/main/Starting%20and%20ending%20locations.PNG)
 
