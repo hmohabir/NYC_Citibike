@@ -1,5 +1,7 @@
 # Using Tableau to present data
 
+[link to my Tableau dashboard](https://public.tableau.com/app/profile/harry.mohabir/viz/NYC_CitiBike_Visualizations_16387611210080/Overallfindings?publish=yes)
+
 ## Overview of the analysis:
 
 The purpose of this analysis is to present data that was gathered previously and present it in a readable format via Tableau. The data collected showed bike sharing servive in New York City for August, 2019.
